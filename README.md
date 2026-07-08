@@ -1,4 +1,3 @@
-# Curriculo5estrelas 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
